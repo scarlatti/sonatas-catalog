@@ -19,7 +19,7 @@ The manuscripts all contain a `.csv` file containing the following listing infor
 
 - `Signature` (string): _Time signature(s) of the sonata or movements of the sonata._
 
-   This fields contains the value `¡` for
+   This fields contains the value `C` for
    4/4 ([common time](https://en.wikipedia.org/wiki/Time_signature#Simple_vs._compound))
    and `¢` for 2/2 ([_alla breve_](https://en.wikipedia.org/wiki/Alla_breve)), otherwise
    the value for this field is a ratio, such as: `2/4`, `3/4`, `3/8`, `6/8`, `12/8`.
@@ -38,8 +38,8 @@ Here are a few examples that cover a number of situations:
 ```csv
 K,   L,   P,   CZ,  Key,             Tempo,                                 Signature
 ...
- 88,  36,   8,  — , G  minor,        Grave;Andante moderato;Allegro;Minuet, ¡;3/8;2/4;3/8
- 89, 211,  12,  — , D  minor,        Allegro;Grave;Allegro,                 ¡;3/4;3/8
+ 88,  36,   8,  — , G  minor,        Grave;Andante moderato;Allegro;Minuet, C;3/8;2/4;3/8
+ 89, 211,  12,  — , D  minor,        Allegro;Grave;Allegro,                 C;3/4;3/8
 ...
 202, 498, 173, 110, B♭ major,        Allegro;Allegro;Vivo,                  3/8;6/8;3/8
 ...
