@@ -9,9 +9,9 @@ The manuscripts all contain a `.csv` file containing the following listing infor
 
 - `K` (number): _Kirkpatrick catalog number of the sonata._
 
-   This file also provides the `L` (for Longo), `P` (for Pestelli) and `CZ` (for Czerny)
+   This file also provides the `L` (for Longo), `P` (for Pestelli) and `Cz` (for Czerny)
    index equivalents, for informational purposes — even though those catalogs are deprecated
-   and not in use.
+   or not in use. The file also provides the `Fl` index introduced by Matthew Flannery.
 
 - `Key` (string): _Key in which the sonata is composed._
 
@@ -57,6 +57,9 @@ Indeed:
 
 
 ## Sources
+
+- Flannery, Matthew (2004). _A Chronological Order for the Keyboard Sonatas of Domenico Scarlatti (1685-1757)_. The Edwin Mellen Press.
+  [ISBN 978-0773463363](https://en.wikipedia.org/wiki/Special:BookSources/978-0773463363).
 
 - Haile, Chris (2014). [Catalogue of sonatas](https://web.archive.org/web/20140203091817/http://www.chrishail.net/catalogue.pdf) from [_Scarlatti Domenico: A new look at the keyboard sonatas of Domenico Scarlatti for people who use both sides of their brain_](https://www.amazon.com/Scarlatti-Domenico-keyboard-sonatas-people-ebook/dp/B072N92R94). ASIN B072N92R94. 
 
