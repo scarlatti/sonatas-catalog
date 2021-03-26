@@ -11,7 +11,8 @@ The manuscripts all contain a `.csv` file containing the following listing infor
 
    This file also provides the `L` (for Longo), `P` (for Pestelli) and `Cz` (for Czerny)
    index equivalents, for informational purposes — even though those catalogs are deprecated
-   or not in use. The file also provides the `Fl` index introduced by Matthew Flannery.
+   or not in use. The file also provides the `F` index for Emilia Fadini's edition, and the
+   `Fl` index introduced by Matthew Flannery.
 
 - `Key` (string): _Key in which the sonata is composed._
 
@@ -65,7 +66,9 @@ Indeed:
 
 - [Kirkpatrick, Ralph](https://en.wikipedia.org/wiki/Ralph_Kirkpatrick) (1953). [_Domenico Scarlatti_](https://archive.org/details/domenicoscarlatt0000kirk). Princeton University Press. [ISBN 0-691-02708-0](https://en.wikipedia.org/wiki/Special:BookSources/0-691-02708-0).
 
-- Wikipedia contributors. [_Listing of solo keyboard sonatas by Domenico Scarlatti_](https://en.wikipedia.org/wiki/List_of_solo_keyboard_sonatas_by_Domenico_Scarlatti) Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 20 Jan. 2021. Web. 25 Mar. 2021.
+- Maruyama, Satosi (1998, 2020). [Converter for Scarlatti's Works Number](https://www.ne.jp/asahi/music/marinkyo/scarlatti/referenco.html.en). Web. 26 March 2021.
+
+- Wikipedia contributors. [_Listing of solo keyboard sonatas by Domenico Scarlatti_](https://en.wikipedia.org/wiki/List_of_solo_keyboard_sonatas_by_Domenico_Scarlatti) Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 20 Jan. 2021. Web. 25 March 2021.
 
 ## License
 
