@@ -112,7 +112,7 @@ K,Fl,F,L,P,Cz,Key,Tempo,Signature
 111,109,70,130,99,—,G minor,Allegro,12/8
 112,110,71,298,94,63,B♭ major,Allegro,3/8
 113,111,72,345,160,52,A major,Allegro,¢
-114,112,73,344,141,—,A major,Con spirito è presto,3/8
+114,112,73,344,141,—,A major,Con spirito e presto,3/8
 115,113,74,407,100,64,C minor,Allegro,3/4
 116,114,75,452,111,76,C minor,Allegro,3/8
 117,115,76,244,181,108,C major,Allegro,¢
@@ -164,11 +164,11 @@ K,Fl,F,L,P,Cz,Key,Tempo,Signature
 163,161,113,63,206,—,E major,Allegro,3/8
 164,162,114,59,274,—,D major,Andante moderato,3/4
 165,163,115,52,292,—,C major,Andante,3/4
-166,164,116,51,190,—,C major,Allegro mà non molto,¢
+166,164,116,51,190,—,C major,Allegro ma non molto,¢
 167,166,117,329,200,—,F major,Allegro,3/4
 168,165,118,280,182,—,F major,Vivo,¢
 169,167,119,331,247,—,G major,Allegro con spirito,C
-170,168,120,303,164,—,C major,Andante moderato è cantabile;Allegro,¢
+170,168,120,303,164,—,C major,Andante moderato e cantabile;Allegro,¢
 171,169,121,77,153,—,G major,Allegro,3/8
 172,170,122,S40,313,112,B♭ major,Allegro,6/8
 173,171,123,447,51,179,B minor,Allegro,2/4
@@ -207,7 +207,7 @@ K,Fl,F,L,P,Cz,Key,Tempo,Signature
 205,211,492,S23,171,—,F major,Vivo,¢;12/8
 206,218,154,257,307,94,E major,Andante,¢
 207,219,155,371,140,—,E major,Allegro,3/8
-208,186,156,238,315,—,A major,Adagio è cantabile,C
+208,186,156,238,315,—,A major,Adagio e cantabile,C
 209,187,157,428,209,—,A major,Allegro,3/8
 210,188,158,123,293,—,G major,Andante,3/8
 211,191,159,133,277,49,A major,Andantino,¢
@@ -346,7 +346,7 @@ K,Fl,F,L,P,Cz,Key,Tempo,Signature
 344,347,292,295,221,—,A major,Allegro,3/8
 345,348,293,306,342,—,D major,Allegro,¢
 346,349,294,60,250,—,D major,Allegro,3/8
-347,350,295,126,294,177,G minor,Moderato è cantabile,¢
+347,350,295,126,294,177,G minor,Moderato e cantabile,¢
 348,351,296,127,462,178,G major,Prestissimo,3/4
 349,352,297,170,452,—,F major,Allegro,3/8
 350,353,298,230,413,—,F major,Allegro,6/8
@@ -372,7 +372,7 @@ K,Fl,F,L,P,Cz,Key,Tempo,Signature
 370,371,316,316,346,—,E♭ major,Allegro,¢
 371,372,317,17,264,—,E♭ major,Allegro,3/8
 372,373,318,302,402,168,G major,Allegro,6/8
-373,374,319,98,158,—,G minor,Presto è fugato,¢
+373,374,319,98,158,—,G minor,Presto e fugato,¢
 374,375,320,76,472,—,G major,Andante,¢
 375,376,321,389,414,—,G major,Allegro,6/8
 376,377,322,34,246,—,B minor,Allegro,3/4
@@ -386,7 +386,7 @@ K,Fl,F,L,P,Cz,Key,Tempo,Signature
 384,387,330,2,487,—,C major,Cantabile andante,¢
 385,388,331,284,220,—,C major,Allegro,3/8
 386,389,332,171,137,164,F minor,Presto,¢
-387,390,333,175,415,163,F minor,Veloce è fugato,6/8
+387,390,333,175,415,163,F minor,Veloce e fugato,6/8
 388,393,334,414,370,—,D major,Presto,¢
 389,394,335,482,331,—,D major,Allegro,3/4
 390,391,336,234,348,—,G major,Allegro,¢
@@ -395,7 +395,7 @@ K,Fl,F,L,P,Cz,Key,Tempo,Signature
 393,396,339,74,326,—,B♭ major,Minuet,3/4
 394,397,340,275,349,—,E minor,Allegro,¢
 395,398,341,65,273,—,E major,Allegro,3/8
-396,399,342,110,435,—,D minor,Andante,¢;6/8
+396,399,342,110,435,—,D minor,Andante,C;6/8
 397,400,343,208,325,—,D major,Minuet,3/8
 398,401,344,218,493,69,C major,Andante,6/8
 399,402,345,274,458,—,C major,Allegro,3/8
@@ -429,7 +429,7 @@ K,Fl,F,L,P,Cz,Key,Tempo,Signature
 427,437,373,286,286,145,G major,Presto quanto sia possibile,C
 428,438,374,131,131,46,A major,Allegro,¢
 429,439,375,132,132,47,A major,Allegro,6/8
-430,421,376,463,463,50,D major,Non presto mà a tempo di ballo,3/8
+430,421,376,463,463,50,D major,Non presto ma a tempo di ballo,3/8
 431,422,377,83,83,—,G major,Allegro,3/4
 432,423,378,288,288,171,G major,Allegro,3/4
 433,424,379,453,453,172,G major,Vivo,6/8
@@ -473,18 +473,18 @@ K,Fl,F,L,P,Cz,Key,Tempo,Signature
 471,470,415,82,327,—,G major,Minuet,3/4
 472,471,416,99,475,—,B♭ major,Andante,3/4
 473,472,417,229,355,—,B♭ major,Allegro molto,¢
-474,473,418,203,502,37,E♭ major,Andante è cantabile,3/4
+474,473,418,203,502,37,E♭ major,Andante e cantabile,3/4
 475,474,419,220,319,97,E♭ major,Allegrissimo,¢
 476,475,420,340,427,38,G minor,Allegro,3/8
 477,476,421,290,419,70,G major,Allegrissimo,6/8
-478,477,422,12,503,—,D major,Andante è cantabile,3/4
+478,477,422,12,503,—,D major,Andante e cantabile,3/4
 479,478,423,S16,380,—,D major,Allegrissimo,¢
 480,482,424,S8,381,—,D major,Presto,¢
-481,479,425,187,504,39,F minor,Andante è cantabile,¢
+481,479,425,187,504,39,F minor,Andante e cantabile,¢
 482,480,426,435,356,40,F major,Allegrissimo,¢
 483,481,427,472,407,42,F major,Presto,3/8
 484,483,428,419,428,—,D major,Allegro,3/8
-485,484,429,153,490,—,C major,Andante è cantabile,¢
+485,484,429,153,490,—,C major,Andante e cantabile,¢
 486,485,430,455,515,—,C major,Allegro,¢
 487,486,431,205,421,55,C major,Allegro,3/8
 488,487,432,S37,382,—,B♭ major,Allegro,¢
